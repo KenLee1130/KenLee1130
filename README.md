@@ -1,16 +1,15 @@
-## Hi there 👋
+# ShacoCheng Lee
 
-<!--
-**KenLee1130/KenLee1130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Physics MS @ National Taiwan University
 
-Here are some ideas to get you started:
+---
+## Research Intersts
+- Conformal Bootstrap
+- Machine Learning
+- Quantum Computing
+- Quantitative Finance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## Projects
+
+### Bootstrapping non-unitary CFTs
