@@ -1,12 +1,16 @@
 # ShaoCheng Lee
 
-Physics MS @ National Taiwan University 2022-2025
+Physics MS @ National Taiwan University \\
+2022-2025
 
-Email: ken6020255@gmail.com • LinkedIn: https://www.linkedin.com/in/shaocheng-lee/
+[Email](ken6020255@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shaocheng-lee/)
 
 ## Professional Experience
-- Research Engineer Intern @ Qunasys From Mar. 2025 - Present
-- Technical Assistant Intern @ Combogic Tech. From Oct. 2023 - Nov. 2023
+- Research Engineer Intern @ Qunasys \\
+  From Mar. 2025 - Present
+  
+- Technical Assistant Intern @ Combogic Tech.\\
+  From Oct. 2023 - Nov. 2023
 
 ## Research Areas
 - Conformal Bootstrap
